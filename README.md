@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/SsuLYk2)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/SsuLYk2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 I encountered challenges with implementing AutoLayout constraints.
